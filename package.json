@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.0",
-    "gonzales-pe": "https://github.com/fwap/gonzales-pe.git",
+    "gonzales-pe": "^4.3.0",
     "minimatch": "3.0.4",
     "minimist": "1.2.6",
     "vow": "0.4.19",
